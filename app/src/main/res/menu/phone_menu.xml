@@ -20,4 +20,8 @@
         android:id="@+id/bookmark_button"
         android:title="@string/bookmarks"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/settings_button"
+        android:title="@string/settings"
+        app:showAsAction="never" />
 </menu>
